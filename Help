@@ -1,8 +1,8 @@
 1.设置用户名
-git config --globle user.name ‘LennyZS’
+git config --global user.name ‘LennyZS’
 
 2.设置用户名邮箱
-git config --globle user.name 'pshao6688@gmail.com'
+git config --global user.name 'pshao6688@gmail.com'
 
 3.初始化一个新仓库仓库
 a.创建文件夹
