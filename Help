@@ -32,3 +32,8 @@ git config --list
 6.搭建项目站点
 新建仓库,仓库名必须为 用户名.github.io
 仓库里面只能有html文件
+
+
+7.git warning: LF will be replaced by CRLF in 解决办法：
+$ rm -rf .git  // 删除.git  
+$ git config --global core.autocrlf false  //禁用自动转换    
