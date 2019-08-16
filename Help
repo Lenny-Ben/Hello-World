@@ -1,5 +1,5 @@
 1.设置用户名
-git config --global user.name ‘LennyZS’
+git config --global user.name 'LennyZS'
 
 2.设置用户名邮箱
 git config --global user.name 'pshao6688@gmail.com'
